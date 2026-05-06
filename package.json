@@ -1,0 +1,15 @@
+{
+  "name": "cargasmart_guia13",
+  "version": "1.0.0",
+  "description": "Repositorio base para práctica DevOps CargaSmart",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
